@@ -55,4 +55,4 @@ const profile = {
   },
 };
 ```
-![npm image](Screenshot (118).png)
+![npm image]([Screenshot (118).png](https://raw.githubusercontent.com/mahesh-barapatre/custom-gemini-chatbot/refs/heads/main/Screenshot%20(118).png))
