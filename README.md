@@ -55,3 +55,4 @@ const profile = {
   },
 };
 ```
+![npm image](path/to/image.png)
